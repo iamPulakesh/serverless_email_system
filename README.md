@@ -96,7 +96,7 @@ A fully serverless project built on AWS to send emails using AWS SES, AWS SQS an
 
 ### Step 7: Test
 - Use Postman or cURL:
-```sample json
+sample json
 {
   "to": "receiver@example.com",
   "subject": "Hello",
