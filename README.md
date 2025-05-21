@@ -1,4 +1,4 @@
-# 📧 Serverless Email Notification System
+# 📧 Serverless Email System
 
 This is a fully serverless project built on AWS to send emails using AWS SES, AWS SQS and logs stored in DynamoDB. The system is triggered by API Gateway and runs an AWS Lambda function to process the logic.
 ---
